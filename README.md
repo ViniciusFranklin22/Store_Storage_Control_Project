@@ -21,7 +21,7 @@ Profit Optimization: Adjust profit margins based on sales data.
 Clone the repository:    
 bash  
 Copiar código  
-git clone https://github.com/your-username/your-repository.git  
+git clone https://github.com/ViniciusFranklin22/Projeto_Controle_Estoque_Loja   
 Install the necessary libraries:    
 bash  
 Copiar código  
