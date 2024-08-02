@@ -20,11 +20,11 @@ Profit Optimization: Adjust profit margins based on sales data.
 **Installation**
 Clone the repository:    
 bash  
-Copiar código  
+Copy code  
 git clone https://github.com/ViniciusFranklin22/Projeto_Controle_Estoque_Loja   
 Install the necessary libraries:    
 bash  
-Copiar código  
+Copy code   
 pip install tkinter sqlite3  
 Change the database path variable in the eng_dados.py file to the correct path on your system.  
 **Usage**  
