@@ -35,5 +35,8 @@ Manage stock levels through the inventory management feature.
 Update product prices as needed.  
 Process sales through the sales page, which ensures products are in stock before authorizing the sale.  
 **Conclusion**  
-This application is a valuable tool for any beverage store, providing efficient inventory control and helping optimize various business aspects. All files used are available in the repository. To use them, simply download the necessary libraries and adjust the database path variable in the eng_dados.py file.
+
+This application is a valuable tool for any beverage store, providing efficient inventory control and optimizing various business aspects. All necessary files are available in the repository. To use them, simply download the required libraries and adjust the database path variable in the `eng_dados.py` file.
+
+To see the project in action, you can download the demonstration video from the path: **"Demonstration Video/app_action.mp4"**, or watch it on YouTube via this [link](https://youtu.be/Ejp2VwykXXY).
 
